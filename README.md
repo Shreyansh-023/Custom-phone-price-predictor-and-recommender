@@ -4,6 +4,7 @@ This is a repo where there are two different models  for the custom phone price 
 
 ## Features
 - Web Scrapped unique Dataset from 91mobiles.com
-- Price prediction using XGBoost backend
-- Nearest 5 phone recommendations using k-NN backend
+- Price prediction using XGBoost Model
+- Nearest 5 phone recommendations using KNN Model
 
+-> You can read ipynb files for all info
